@@ -8,4 +8,4 @@ Quivr brings the power of generative AI on your [local machine in less than 10 m
 
 Quivr needs an openAI api key to work, or can also do the job with [Ollama]() running locally, which is a strong plus if you want to keep your data safe (and if your machine can handle it).
 
-Overall, Quivr is a neat library and RAG is very powerful so I may create a few brains in the upcoming days, it may be fun and satisfying.
+**My opinion :** Overall, Quivr is a neat library and RAG is very powerful so I may create a few brains in the upcoming days, it may be fun and satisfying.
