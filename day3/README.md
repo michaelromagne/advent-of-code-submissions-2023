@@ -1,6 +1,6 @@
 # Quivr
 
-<img src="quivr.png" alt="quivr_logo" width="500"/>
+<img src="quivr.png" alt="quivr_logo" width="300"/>
 
 Quivr is your second brain. Or actually, your multiple second brains.
 
