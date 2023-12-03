@@ -1,2 +1,3 @@
-# advent-of-code-submissions-2023
-Advent of Code - Open Source by Zilliz
+# Advent of Code for Open Source - by Zilliz
+
+🎄
