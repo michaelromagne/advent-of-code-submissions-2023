@@ -1,6 +1,6 @@
 # Quivr
 
-<img src="quivr.png" alt="quivr_logo" width="300"/>
+<img src="../img/quivr.png" alt="quivr_logo" width="300"/>
 
 Quivr is your second brain. Or actually, your multiple second brains.
 
@@ -13,3 +13,5 @@ One of the current limitation of Quivr is that the maximum context size is prett
 If this limitation is too restrictive, you can also look at [other types of LLM chains](https://python.langchain.com/docs/modules/chains/document/), like Refine, Map Reduce and Map re-rank. 
 
 **My opinion :** Overall, Quivr is a neat library and RAG is very powerful so I may create a few brains in the upcoming days, it may be fun and satisfying.
+
+This was also a good occasion to discover Supabase vector database and [Ollama](https://ollama.ai/) to run Llama 2 locally in a blink.
