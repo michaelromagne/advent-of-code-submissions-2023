@@ -2,11 +2,11 @@
 
 <img src="../img/haystack.png" alt="quivr_logo" width="300"/>
 
-Haystack is a LLM orchestration framework to quickly build custom LLM applications. You can connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data, that are stored in DocumentStores. Haystack proposes already 31 integrations as of December 2023 with for instane HuggingFace, Notion extractor, Milvus, FAISS, Chroma DB...
+Haystack is a LLM orchestration framework to quickly build custom LLM applications. You can connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data, that are stored in DocumentStores. Haystack proposes already 31 integrations as of December 2023 with for instance HuggingFace, Notion extractor, Milvus, FAISS, Chroma DB...
 
 Examples of use cases that you can tackle with Haystack:
 
-- build RAG, with any vector database available and customizing your LLM interaction  
+- build RAG pipelines, with any vector database available and customizing your LLM interaction  
 - Question answering based on a set of FAQ documents, to provide answers to new incoming questions  
 - Semantic search and retrieve most relevant documents according to meaning  
 - Create more complex pipelines...  
