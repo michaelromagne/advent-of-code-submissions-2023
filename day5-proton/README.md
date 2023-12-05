@@ -17,5 +17,5 @@ Below is an overview of all Proton competitors. It comes from an awesome talk by
 <img src="../img/concu.png" alt="concu" width="450"/>
 
 
-**My Opinion:** Interesting to see a new streaming database. I see the added value here, however it's not my expertise and is a bit far from my concern for now so I did not push the test very far. I would still recommend the talk mentionned above for anyone working on the subject, and will refer to it in the future when needed.
+**My Opinion:** Interesting to see a new streaming database. I see the added value here, and I will have Proton in mind when needed. I recommend the talk mentionned above for anyone working on the subject, and I will refer to it in the future.
 
