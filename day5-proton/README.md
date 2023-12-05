@@ -1,6 +1,6 @@
 # Proton
 
-<img src="../img/proton.png" alt="archi" width="300"/>
+<img src="../img/proton.png" alt="archi" width="200"/>
 
 Timeplus is a streaming-first data analytics platform. It provides powerful end-to-end capabilities, leveraging the open source streaming database Proton, to help teams process streaming and historical data quickly and intuitively, accessible for organizations of all sizes and industries. It enables data engineers and platform engineers to unlock streaming data value **using SQL**.
 
