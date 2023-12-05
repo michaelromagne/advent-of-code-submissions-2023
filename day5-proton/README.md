@@ -14,7 +14,7 @@ How does it integrates with other Streaming databases like Kafka ? Low level kaf
 Other solutions like Flink exist for this, but the major difference with Proton is the historical aspect. Flink will dump data in S3 for instance but you will not be able to query history using Flink, whereas this is possible with Proton with the Historical Data Store.  
 Below is an overview of all Proton competitors. It comes from an awesome talk by Gang Tao from Proton.
 
-<img src="../img/concu.png" alt="archi" width="454545454545454545454545454545454545454545454545454545454545454545454545454545454545454545=Gw_qUTdcdEg
+<img src="../img/concu.png" alt="concu" width="450"/>
 
 
 **My Opinion:** Interesting to see a new streaming database. I see the added value here, Proton seems interesting however it's not my expertise and is a bit far from my concern for now so I did not push the test very far. I would still recommend the talk mentionned above for anyone working on the subject, and will refer to it in the future when needed.
