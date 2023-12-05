@@ -15,7 +15,7 @@ Other solutions like Flink exist for this, but the major difference with Proton 
 Below is an overview of all Proton competitors. It comes from an awesome talk by Gang Tao from Proton.
 
 <img src="../img/concu.png" alt="concu" width="450"/>
-Source : [Query data with SQL](https://www.youtube.com/watch?v=Gw_qUTdcdEg)
+Source : https://www.youtube.com/watch?v=Gw_qUTdcdEg
 
 
 **My Opinion:** Interesting to see a new streaming database. I see the added value here, and I will have Proton in mind when needed. I recommend the talk mentionned above for anyone working on the subject, and I will refer to it in the future.
