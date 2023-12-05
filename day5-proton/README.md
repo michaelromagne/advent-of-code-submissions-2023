@@ -8,14 +8,11 @@ The Timeplus console allows for easy connection to diverse data sources (such as
 
 Here is an architecture diagram describing Proton :
 
-<img src="../img/archi_proton.png" alt="archi" width="300"/>
+<img src="../img/archi_proton.png" alt="archi" width="700"/>
 
-
-Streams are similar to tables in traditional SQL databases. It makes Proton quick to adopt.
-
-Low level kafka management can be hard and proton eases all that stuff to query data on Kafka streams. It's challenging and boring otherwise.
-
-Other solutions like Flink exist, but the major difference with Proton is the historical aspect. Flink will dump data in S3 for instance but you will not be able to query history using Flink, whereas this is possible with Proton.
+How does it integrates with other Streaming databases like Kafka ? Low level kafka management can be hard and proton allow you to query data easily on Kafka streams. It's challenging and boring otherwise.  
+Other solutions like Flink exist for this, but the major difference with Proton is the historical aspect. Flink will dump data in S3 for instance but you will not be able to query history using Flink, whereas this is possible with Proton with the Historical Data Store.  
+Below is an overview of all Proton competitors. It comes from an awesome talk by Gang Tao from Proton.
 
 <img src="../img/concu.png" alt="archi" width="300"/>
 *Source: https://www.youtube.com/watch?v=Gw_qUTdcdEg*
