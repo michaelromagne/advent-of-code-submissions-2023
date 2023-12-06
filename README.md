@@ -5,5 +5,6 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 3 : [Quivr](https://github.com/StanGirard/quivr)
 - Day 4 : [Haystack](https://haystack.deepset.ai/)
 - Day 5 : [Proton](https://docs.timeplus.com/proton)
+- Day 6 : [YData-synthetic](https://ydata.ai/)
 
 ![Alt Text](img/christmas.gif)
