@@ -1,0 +1,15 @@
+[[source]]
+url = "https://gitlab.gitguardian.ovh/api/v4/projects/435/packages/pypi/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+ydata-synthetic = {extras = ["streamlit"], version = "*"}
+ydata-profiling = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.13"
