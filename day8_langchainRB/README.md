@@ -2,6 +2,8 @@
 
 <img src="../img/langchain_rb.jpeg" alt="langchain_logo" width="250"/>
 
+[git repo Langchain.rb](https://github.com/andreibondarev/langchainrb)
+
 Langchain.rb brings Langchain framework into the Ruby world, making it a breeze for developers to work with Large Language Models like GPT-4 or LLAMA 2. Langchain is designed to cut down on the heavy lifting when integrating AI into your projects. It handles a lot of the common tasks with AI models, like managing conversation memory and connecting various AI tasks seamlessly. Plus, it offers a range of ready-to-use prompts, which is a huge time-saver. In a few minutes, you are able to build powerful RAG pipelines or conversational bots, which is awesome.
 
 <img src="../img/lang.png" alt="langchai_integrations" width="550"/>
