@@ -7,5 +7,6 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 5 : [Proton](https://docs.timeplus.com/proton)
 - Day 6 : [YData-synthetic](https://ydata.ai/)
 - Day 7 : [Apache Flink](https://flink.apache.org/)
+- Day 8 : [Langchain.rb](https://github.com/andreibondarev/langchainrb)
 
 ![Alt Text](img/christmas.gif)
