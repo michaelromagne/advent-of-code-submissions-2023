@@ -8,5 +8,7 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 6 : [YData-synthetic](https://ydata.ai/)
 - Day 7 : [Apache Flink](https://flink.apache.org/)
 - Day 8 : [Langchain.rb](https://github.com/andreibondarev/langchainrb)
+- Day 9 : [Flyte](https://github.com/flyteorg/flyte)
+- Day 10 : [DVC 💚](https://github.com/iterative/dvc)
 
 ![Alt Text](img/christmas.gif)
