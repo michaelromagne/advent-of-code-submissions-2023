@@ -1,0 +1,70 @@
+schema: '2.0'
+stages:
+  preprocess:
+    cmd: python scripts/preprocess.py
+    deps:
+    - path: scripts/preprocess.py
+      hash: md5
+      md5: 51e938fabdb42df3cf2dc5ab81b0cf81
+      size: 328
+    outs:
+    - path: data/processed_data.csv
+      hash: md5
+      md5: e8309290cb3c1443d6da98b9913fda9d
+      size: 12864
+  split:
+    cmd: python scripts/split.py
+    deps:
+    - path: data/processed_data.csv
+      hash: md5
+      md5: e8309290cb3c1443d6da98b9913fda9d
+      size: 12864
+    - path: scripts/split.py
+      hash: md5
+      md5: 9884eda41804ee2b76f6e1258014eb06
+      size: 442
+    outs:
+    - path: data/test.csv
+      hash: md5
+      md5: 1adac2f7427c660639b5cc65f70b0b1f
+      size: 2872
+    - path: data/train.csv
+      hash: md5
+      md5: 42f625e2b3759e3d0eea5ead1f96740e
+      size: 10794
+  train:
+    cmd: python scripts/train.py
+    deps:
+    - path: data/train.csv
+      hash: md5
+      md5: 42f625e2b3759e3d0eea5ead1f96740e
+      size: 10794
+    - path: scripts/train.py
+      hash: md5
+      md5: 7268e2e2ec587f1084d639c9211f1c4c
+      size: 348
+    outs:
+    - path: clf.pkl
+      hash: md5
+      md5: 4fcefb2bb37b03f8b281d1f20af9ade4
+      size: 1407
+  evaluate:
+    cmd: python scripts/evaluate.py
+    deps:
+    - path: clf.pkl
+      hash: md5
+      md5: 4fcefb2bb37b03f8b281d1f20af9ade4
+      size: 1407
+    - path: data/test.csv
+      hash: md5
+      md5: 1adac2f7427c660639b5cc65f70b0b1f
+      size: 2872
+    - path: scripts/evaluate.py
+      hash: md5
+      md5: 2136dba21e3592bcffc1fe1a134bfc97
+      size: 343
+    outs:
+    - path: data/evaluation_report.txt
+      hash: md5
+      md5: 711a6b432229e20cedf953700789761e
+      size: 261

@@ -1,0 +1,34 @@
+stages:
+  preprocess:
+    cmd: python scripts/preprocess.py
+    deps:
+      - scripts/preprocess.py
+    outs:
+      - data/processed_data.csv
+
+  split:
+    cmd : python scripts/split.py
+    deps:
+      - data/processed_data.csv
+      - scripts/split.py
+    outs:
+      - data/train.csv
+      - data/test.csv
+
+  train:
+    cmd: python scripts/train.py
+    deps:
+      - data/train.csv
+      - scripts/train.py
+    outs:
+      - clf.pkl
+
+  evaluate:
+    cmd: python scripts/evaluate.py
+    deps:
+      - clf.pkl
+      - data/test.csv
+      - scripts/evaluate.py
+    outs:
+      - data/evaluation_report.txt
+
