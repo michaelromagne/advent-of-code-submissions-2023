@@ -11,5 +11,8 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 9 : [Flyte](https://github.com/flyteorg/flyte)
 - Day 10 : [DVC 💚](https://github.com/iterative/dvc)
 - Day 11 : [Phoenix](https://github.com/Arize-ai/phoenix)
+- Day 12 : [Trulens](https://github.com/truera/trulens)
+
+- Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
 ![Alt Text](img/christmas.gif)
