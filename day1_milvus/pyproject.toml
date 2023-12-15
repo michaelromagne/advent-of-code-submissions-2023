@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "day1-milvus"
+version = "0.1.0"
+description = ""
+authors = ["Michaël Romagné <michael.romagne@gitguardian.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+trulens-eval = "0.12.0"
+llama-index = "0.8.4"
+pymilvus = "2.3.0"
+nltk = "3.8.1"
+html2text = "2020.1.16"
+tenacity = "8.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
