@@ -1,6 +1,6 @@
 # FiftyOne
 
-<img src="../img/fiftyone.png" alt="fiftyone_logo" width="250"/>
+<img src="../img/fiftyone.png" alt="fiftyone_logo" width="150"/>
 
 The open-source tool for building high-quality datasets and computer vision models. With FiftyOne, you can visualize complex labels, evaluate your models, explore scenarios of interest, identify failure modes, find annotation mistakes, and much more.
 
