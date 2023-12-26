@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "day13-openllm"
+version = "0.1.0"
+description = ""
+authors = ["Michaël Romagné <michael.romagne@gitguardian.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openllm = {extras = ["vllm"], version = "^0.4.41"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
