@@ -15,6 +15,7 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 11 : [Phoenix](https://github.com/Arize-ai/phoenix)
 - Day 12 : [Trulens](https://github.com/truera/trulens)
 - Day 13 : [OpenLLM](https://github.com/bentoml/OpenLLM)
+- Day 20 : [Pachyderm](https://github.com/pachyderm/pachyderm)
 
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
