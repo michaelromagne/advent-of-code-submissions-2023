@@ -12,11 +12,16 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 8 : [Langchain.rb](https://github.com/andreibondarev/langchainrb)
 - Day 9 : [Flyte](https://github.com/flyteorg/flyte)
 - Day 10 : [DVC 💚](https://github.com/iterative/dvc)
-- Day 11 : [Phoenix](https://github.com/Arize-ai/phoenix)
+- Day 11 : [Phoenix - Arize AI](https://github.com/Arize-ai/phoenix)
 - Day 12 : [Trulens](https://github.com/truera/trulens)
 - Day 13 : [OpenLLM](https://github.com/bentoml/OpenLLM)
 - Day 20 : [Pachyderm](https://github.com/pachyderm/pachyderm)
 
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
-![Alt Text](img/christmas.gif)
+![christmas_strong](img/christmas.gif)
+
+Conclusion : I built a map to conclude this AOC, to show where each of these tools fall
+
+![tool_map](img/mlops_tools.png)
+
