@@ -37,7 +37,3 @@ Based on the libraries I discovered in December, I wrote a blog post and created
 - Day 24: [Temporian](https://github.com/google/temporian)
 
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
-
-
-
-s
