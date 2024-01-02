@@ -4,6 +4,13 @@
 
 Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zilliz](https://zilliz.com/blog/advent-of-code-for-open-source).
 
+Based on the libraries I discovered in December, I wrote a blog post and created a tool map with the most interesting projects I know so far regarding LLMOps :
+
+![tool_map](img/mlops_tools.png)
+
+
+### Details of tools explored
+
 - Day 1 : [Milvus](https://github.com/milvus-io/milvus)
 - Day 2 : [FiftyOne](https://github.com/voxel51/fiftyone)
 - Day 3 : [Quivr](https://github.com/StanGirard/quivr)
@@ -32,10 +39,5 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
 
-## Tool map
-
-Based on these tools, I wrote a blog post and created a tool map with the most interesting tools I know so far for LLMOps.
-
-![tool_map](img/mlops_tools.png)
 
 s
