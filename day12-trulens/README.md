@@ -9,4 +9,4 @@ I first tested the tutorials on trulens-eval, in which you build a RAG applicati
 I also tried the trulens-explain package to explain the decisions of vgg16. I am not a big computer vision expert but this example with the Beagle image were not that impressive to me unfortunately. But I may just like expertise here.
 
 
-**My opinion:** I was curious to test this library as I am a user of [Giskard AI](https://github.com/Giskard-AI/giskard) to test models, and Giskard also took the LLM wave pretty well. Trulens did the job pretty well with their tutorials. The streamlit app is nice and the metrics are interesting to evaluate LLMs. I am looking forward to catch up on Giskard AI progress to compare these two libraries.s
+**My opinion:** I was curious to test this library as I am a user of [Giskard AI](https://github.com/Giskard-AI/giskard) to test models, and Giskard also took the LLM wave. Trulens did the job pretty well with their tutorials. The streamlit app is nice and the metrics are interesting to evaluate LLMs. I am looking forward to catch up on Giskard AI progress to compare these two libraries.s
