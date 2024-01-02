@@ -1,5 +1,7 @@
 # Advent of Code for Open Source
 
+![christmas](img/santa_boat.png)
+
 Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zilliz](https://zilliz.com/blog/advent-of-code-for-open-source).
 
 - Day 1 : [Milvus](https://github.com/milvus-io/milvus)
@@ -29,7 +31,6 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
-![christmas](img/santa_boat.png)
 
 ## Tool map
 
