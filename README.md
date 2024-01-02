@@ -21,7 +21,7 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 
 ![christmas](img/santa_boat.png)
 
-Conclusion : I built a map to conclude this AOC, to show where each of these tools fall
+## Tool map
 
 ![tool_map](img/mlops_tools.png)
 
