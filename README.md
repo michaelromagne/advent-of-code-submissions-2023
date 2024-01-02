@@ -15,7 +15,17 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 - Day 11 : [Phoenix - Arize AI](https://github.com/Arize-ai/phoenix)
 - Day 12 : [Trulens](https://github.com/truera/trulens)
 - Day 13 : [OpenLLM](https://github.com/bentoml/OpenLLM)
+- Day 14: [Label Studio](https://github.com/HumanSignal/label-studio/)
+- Day 15: [Llama Index](https://github.com/run-llama/llama_index)
+- Day 16: [LLMWare](https://github.com/llmware-ai/llmware)
+- Day 17: [Determined AI](https://github.com/determined-ai/determined)
+- Day 18: [Apache Paimon](https://github.com/apache/incubator-paimon)
+- Day 19: [Vectorflow](https://github.com/dgarnitz/vectorflow)
 - Day 20 : [Pachyderm](https://github.com/pachyderm/pachyderm)
+- Day 21: [GPTCache](https://github.com/zilliztech/gptcache)
+- Day 22: [Ray](https://github.com/ray-project/ray)
+- Day 23: [SuperGradients](https://github.com/Deci-AI/super-gradients)
+- Day 24: [Temporian](https://github.com/google/temporian)
 
 - Additional tools : [Giskard AI](https://github.com/Giskard-AI/giskard)
 
@@ -23,5 +33,8 @@ Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zi
 
 ## Tool map
 
+Based on these tools, I wrote a blog post and created a tool map with the most interesting tools I know so far for LLMOps.
+
 ![tool_map](img/mlops_tools.png)
 
+s
