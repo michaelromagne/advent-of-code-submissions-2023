@@ -4,7 +4,7 @@
 
 Discovery of open source libraries, mostly related to LLMs. [AOC organized by Zilliz](https://zilliz.com/blog/advent-of-code-for-open-source).
 
-Based on the libraries I discovered in December, I wrote a blog post and created a tool map with the most interesting projects I know so far regarding LLMOps :
+Based on the libraries I discovered in December, I wrote a [blog post](https://medium.com/@michael.romagne/a-gentle-journey-to-llmops-zilliz-advent-of-code-293fe166926a) and created a tool map with the most interesting projects I know so far regarding LLMOps :
 
 ![tool_map](img/mlops_tools.png)
 
